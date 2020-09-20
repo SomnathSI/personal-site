@@ -4,6 +4,7 @@ import fs from 'fs';
 import path from 'path';
 
 import express from 'express';
+import ReactGA from 'react-ga';
 
 import webpack from 'webpack';
 import webpackMiddleware from 'webpack-dev-middleware';
@@ -11,6 +12,11 @@ import webpackHotMiddleware from 'webpack-hot-middleware';
 import config from '../../../webpack/webpack.config.babel';
 
 const env = process.env.NODE_ENV || 'development';
+
+function initializeReactGA() {
+  ReactGA.initialize('UA-178417449-1');
+  ReactGA.pageview('/homepage');
+}
 
 const routes = (app) => {
   if (env === 'development') { // eslint-disable-line eqeqeq

@@ -81,25 +81,9 @@ const Contact = () => {
     <Main>
       <Helmet title="Contact" />
       <article className="post" id="contact">
-        <header>
-          <div className="title">
-            <h2><Link to="/contact">Contact</Link></h2>
-          </div>
-        </header>
-        <div className="email-at">
-          <p>Feel free to get in touch. You can email me at: </p>
-          <div
-            className="inline-container"
-            style={validateText(message) ? {} : { color: 'red' }}
-            onMouseEnter={() => setIsActive(false)}
-            onMouseLeave={() => (idx < messages.length) && setIsActive(true)}
-          >
-            <a href={validateText(message) ? `mailto:${message}@mldangelo.com` : ''}>
-              <span>{message}</span>
-              <span>@mldangelo.com</span>
-            </a>
-          </div>
-        </div>
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScQMkYEfn-NkwQOE5jRCcucbLboWCYujK1lNRx0M9UqY5BqQg/viewform?embedded=true"
+                width="640" height="840" frameBorder="0" marginHeight="0" marginWidth="0">Loading…
+        </iframe>
         <ul className="icons">
           {data.map((s) => (
             <li key={s.label}>

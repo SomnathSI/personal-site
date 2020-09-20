@@ -1,42 +1,42 @@
 // TODO Add a couple lines about each project
 const data = [
   {
-    title: 'Nearest Dollar',
-    subtitle: '2015 BVP Hackathon',
-    link: '/projects/nearestdollar/',
-    image: '/images/projects/nearestdollar.jpg',
-    date: '2015-11-20',
-    desc: 'Built for a social impact hackathon. '
-      + 'NearestDollar connected to your bank accounts, credit cards, '
-      + 'or debit cards and rounded up your purchases to donate the balance to '
-      + 'the charity of your choice.',
+    title: 'Sanskrit Shlokas',
+    subtitle: 'Eternal truth from ancient India',
+    link: '/sanskrit/',
+    image: '/images/projects/sage.jpg',
+    date: '2020-09-11',
+    desc: 'Contains eternal truth from ancient India. Truth is subtle. It\'s everywhere but also nowhere. ' +
+        'In this section I\'ll post Sanskrit Shlokas which I studied during my middle school and high school.',
   }, {
-    title: 'Harvest',
-    subtitle: 'Won 3rd. place in 2015 Techcrunch Disrupt SF Hackathon',
-    link: 'https://devpost.com/software/harvest',
-    image: '/images/projects/harvest.jpg',
-    date: '2015-09-20',
-    desc: 'Won ~ $7000 in prizes for an advanced, low cost monitoring solution '
-      + 'for crops. Harvest was designed to catch irrigation leaks, overwatering, '
-      + 'and nutrient deficiencies at an affordable price for the developing world.',
+    title: 'Technology',
+    subtitle: 'Topics in Machine Learning and AWS Technologies',
+    link: '/technology/',
+    image: '/images/projects/technology.png',
+    date: '2020-09-11',
+    desc: 'Topics in Machine Learning and AWS Technologies',
   }, {
-    title: 'Space Potato',
-    subtitle: 'A kickstarter funded potato powered weather balloon.',
-    link: 'http://www.spacepotato.org',
-    image: '/images/projects/spacepotato.jpg',
-    date: '2015-06-28',
-    desc: 'Launched a potato battery powered weather balloon with two cameras '
-      + 'and gps transponder. Resulting photos were published in a coffee table book. '
-      + 'You can email me for a copy.',
+    title: 'Books',
+    subtitle: 'Selected books that I have read or currently reading.',
+    link: '/books/',
+    image: '/images/projects/books.jpeg',
+    date: '2020-09-11',
+    desc: 'Selected books that I have read or currently reading.',
   }, {
-    title: 'Cat Detector',
-    subtitle: 'A convolutional neural network to classify cats! (and dogs)',
-    link: '/project/catdetector/',
-    image: '/images/projects/catdetector.jpg',
-    date: '2015-05-15',
-    desc: 'Trained a convolutional neural network to classify between ~ 80 cats breeds. '
-     + 'Over 60,000 cats were classified before server bills made the project too expensive '
-     + 'to continue hosting.',
+    title: 'Videos',
+    subtitle: 'A Collection of informative videos.',
+    link: '/videos/',
+    image: '/images/projects/videos.jpg',
+    date: '2020-09-11',
+    desc: 'A Collection of informative videos.',
+  },
+  {
+    title: 'Bengali',
+    subtitle: 'Process of learning Bengali script.',
+    link: '/bengali/',
+    image: '/images/projects/bengali.jpg',
+    date: '2020-09-11',
+    desc: 'Process of learning Bengali script.',
   },
 ];
 

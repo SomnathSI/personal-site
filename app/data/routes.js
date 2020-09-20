@@ -1,7 +1,7 @@
 const data = [
   {
     path: '/',
-    label: 'Michael D\'Angelo',
+    label: 'Somnath Sarkar',
     index: true,
   },
   {
@@ -17,8 +17,12 @@ const data = [
     label: 'Projects',
   },
   {
-    path: '/stats',
-    label: 'Stats',
+    path: '/sanskrit',
+    label: 'Sanskrit',
+  },
+  {
+    path: '/visualization',
+    label: 'Data Visualization',
   },
   {
     path: '/contact',

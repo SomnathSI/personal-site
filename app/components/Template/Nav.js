@@ -9,20 +9,24 @@ const Nav = () => (
   <section id="sidebar">
     <section id="intro">
       <Link to="/" className="logo">
-        <img src={`${BASE_PATH}/images/me_icon.jpg`} alt="" />
+        <img src={`${BASE_PATH}/images/me_icon.jpeg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
-        <p><a href="mailto:michael.l.dangelo@gmail.com">michael.l.dangelo@gmail.com</a></p>
+        <h2>Somnath Sarkar</h2>
+        <p><a href="mailto:somnath.iitkgp@gmail.com">somnath.iitkgp@gmail.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I like building things.
-        I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
-        the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
-        at <a href="https://matroid.com">Matroid</a>, <a href="https://planet.com">Planet</a>, <a href="https://planetaryresources.com">Planetary Resources</a>, <a href="https://facebook.com">Facebook</a>, and <a href="https://seds.org">SEDS</a>.
+      <p>I&apos;m a Machine Learning Engineer at Amazon. I work on Algorithms that power
+          <a href={"https://aws.amazon.com/sagemaker"} target="_blank"> Amazon SageMaker</a>.
+          Prior to Amazon I was at <a href={"https://www.goldmansachs.com/"} target="_blank">Goldman Sachs </a>
+          and <a href={"https://www.credit-suisse.com/"} target="_blank">Credit Suisse</a>.</p>
+
+        <p>Regarding my academic background I have degrees from
+            <a href={"https://www.columbia.edu/"} target="_blank"> Columbia University </a>and
+            <a href={"http://www.iitkgp.ac.in/"}> IIT Kharagpur</a>.
       </p>
       <ul className="actions">
         <li>
@@ -41,7 +45,7 @@ const Nav = () => (
           </li>
         ))}
       </ul>
-      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">&copy; Somnath Sarkar <Link to="/">@somnathsarkar.com</Link>.</p>
     </section>
   </section>
 );
