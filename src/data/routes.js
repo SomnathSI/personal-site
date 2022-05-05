@@ -28,6 +28,11 @@ const data = [
     path: '/contact',
     label: 'Contact',
   },
+  {
+    path: 'http://34.196.224.117',
+    label: 'Blog',
+    external: true
+  }
 ];
 
 export default data;

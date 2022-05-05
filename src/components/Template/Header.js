@@ -15,7 +15,8 @@ const Header = () => (
       <ul>
         {routes.filter((l) => !l.index).map((l) => (
           <li key={l.label}>
-            <Link to={l.path}>{l.label}</Link>
+              {l.external ? (<Link to={{pathname: l.path}} target="_blank" >{l.label}</Link>) :
+                  (<Link to={l.path}>{l.label}</Link>)}
           </li>
         ))}
       </ul>
