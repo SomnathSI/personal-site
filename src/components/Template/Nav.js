@@ -19,8 +19,9 @@ const Nav = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>I&apos;m a Machine Learning Engineer at Amazon. I work on Algorithms that power
-          <a href={"https://aws.amazon.com/sagemaker"} target="_blank"> Amazon SageMaker</a>.
+      <p>I&apos;m a Software Engineer at Amazon. Currently I work on ML Infrastructure for a research team within
+          <a href={"https://advertising.amazon.com/"} target="_blank"> Advertising</a>. In my former capacity I worked on
+          <a href={"https://aws.amazon.com/sagemaker"} target="_blank"> Amazon SageMaker</a> within AWS.
           Prior to Amazon I was at <a href={"https://www.goldmansachs.com/"} target="_blank">Goldman Sachs </a>
           and <a href={"https://www.credit-suisse.com/"} target="_blank">Credit Suisse</a>.</p>
 

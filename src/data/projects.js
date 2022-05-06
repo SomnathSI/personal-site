@@ -11,21 +11,21 @@ const data = [
   }, {
     title: 'Technology',
     subtitle: 'Topics in Machine Learning and AWS Technologies',
-    link: '/technology/',
+    link: 'http://34.196.224.117',
     image: '/images/projects/technology.png',
     date: '2020-09-11',
     desc: 'Topics in Machine Learning and AWS Technologies',
   }, {
     title: 'Books',
     subtitle: 'Selected books that I have read or currently reading.',
-    link: '/books/',
+    link: 'http://34.196.224.117',
     image: '/images/projects/books.jpeg',
     date: '2020-09-11',
     desc: 'Selected books that I have read or currently reading.',
   }, {
     title: 'Videos',
     subtitle: 'A Collection of informative videos.',
-    link: '/videos/',
+    link: 'http://34.196.224.117',
     image: '/images/projects/videos.jpg',
     date: '2020-09-11',
     desc: 'A Collection of informative videos.',
@@ -33,7 +33,7 @@ const data = [
   {
     title: 'Bengali',
     subtitle: 'Process of learning Bengali script.',
-    link: '/bengali/',
+    link: 'http://34.196.224.117',
     image: '/images/projects/bengali.jpg',
     date: '2020-09-11',
     desc: 'Process of learning Bengali script.',

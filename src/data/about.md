@@ -1,11 +1,13 @@
 
 #### Intro
 I'm a Machine Learning Engineer at Amazon.
-<br>
-I work on Amazon SageMaker.
+
 <br><br>
-#### Currently
-At Amazon I have been involved in adding various features in SageMaker.
+#### Selected works in AWS
+* [Explaining Amazon SageMaker Autopilot models with SHAP](https://aws.amazon.com/blogs/machine-learning/explaining-amazon-sagemaker-autopilot-models-with-shap/)
+* [AWS announces general availability of Amazon Redshift ML](https://aws.amazon.com/about-aws/whats-new/2021/05/aws-announces-general-availability-of-amazon-redshift-ml/)
+* [Using Amazon SageMaker inference pipelines with multi-model endpoints](https://aws.amazon.com/blogs/machine-learning/using-amazon-sagemaker-inference-pipelines-with-multi-model-endpoints/)
+
 <br><br>
 #### Some history
 
@@ -18,7 +20,7 @@ At Amazon I have been involved in adding various features in SageMaker.
 - In the summer of 2007, I was at Indian Statistical Institute in Bangalore. 
 Unfortunately, I did not have a great time there. The only thing I remember 
 from that summer was the trip to Mysore and Ooty and my first air travel. 
-I flew from Bangalore to Calcutta on a Sahara (now defunct) plane from the HAL
+I flew from Bangalore to Kolkata on a Sahara (now defunct) plane from the HAL
 airport (now defunct) in Bangalore.  
 
 - In the summer of 2008, I was an intern at Barclays Capital at Singapore. 
@@ -37,7 +39,7 @@ Vatican City, Switzerland, France, Belgium, Luxembourg, Netherlands, Denmark, No
 - On 11th August 2011, I moved to United States.
 
 - From 2013 to 2018, I travelled to Canada 4 times covering from east to west - 
-Quebec City, Montreal. Ottawa, Toronto, Vancouver, Victoria and Banff. 
+Quebec City, Montreal, Ottawa, Toronto, Vancouver, Victoria and Banff. 
 
 - In April 2015, I travelled to Dubai in UAE.
 
@@ -53,6 +55,6 @@ Quebec City, Montreal. Ottawa, Toronto, Vancouver, Victoria and Banff.
 
 #### Travel / Geography
 
-- I am from originally from Ranchi, India, but I live in New York since 2011.
+- I am from originally from Ranchi, India, but I live in US since 2011.
 
 - I've been to 27 countries, including India where I was born and USA where I currently live.   
